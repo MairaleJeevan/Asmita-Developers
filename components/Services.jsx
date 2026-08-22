@@ -199,7 +199,7 @@ const Services = () => {
                           })}
                         </ul>
                         {/* btn */}
-                        <Button text="Read more" />
+                        {/* <Button text="Read more" /> */}
                       </div>
                     </div>
                   </motion.div>
